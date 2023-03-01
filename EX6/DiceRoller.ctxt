@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiceRoller
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getValidDieType()
+comment3.params=dieType
+comment3.target=boolean\ isValidDieType(int)
+comment4.params=
+comment4.target=int\ getNumDice()
+comment5.params=
+comment5.target=int\ getValidTarget()
+numComments=6
